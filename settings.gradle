@@ -1,0 +1,6 @@
+
+include ':binding-core'
+include ':binding-processor'
+include ':binding-annotation'
+include ':app'
+rootProject.name = "KaptDemo"
